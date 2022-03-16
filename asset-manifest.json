@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/akuz-chat/static/js/main.f211c239.js",
+    "main.js": "/akuz-chat/static/js/main.bd72272d.js",
     "index.html": "/akuz-chat/index.html",
-    "main.f211c239.js.map": "/akuz-chat/static/js/main.f211c239.js.map"
+    "main.bd72272d.js.map": "/akuz-chat/static/js/main.bd72272d.js.map"
   },
   "entrypoints": [
-    "static/js/main.f211c239.js"
+    "static/js/main.bd72272d.js"
   ]
 }
