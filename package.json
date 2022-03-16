@@ -15,6 +15,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://kuznetsovandrey76.github.io/akuz-chat/",
   "browserslist": {
     "production": [
       ">0.2%",
